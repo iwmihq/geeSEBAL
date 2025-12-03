@@ -111,8 +111,6 @@ If you use this code, please cite the base implementation (v0.1.0) and the v0.2.
 ### Base Implementation (v0.1.0)
 > [Laipelt et al. (2021)] Long-term monitoring of evapotranspiration using the SEBAL algorithm and Google Earth Engine cloud computing. (https://doi.org/10.1016/j.isprsjprs.2021.05.018)
 
-### Modified Adaptation (v0.2.0)
-> *[Insert your Name/Study Citation here regarding the Collection 2 adaptation and Delta region study]*
 
 ---
 
