@@ -1,0 +1,12 @@
+{
+  "UB":"B1",
+  "B":"B2",
+  "GR":"B3" ,
+  "R":"B4",
+  "NIR":"B5" ,
+  "SWIR_1":"B6",
+  "SWIR_2":"B7" ,
+  "BRT":"B10" ,
+  "pixel_qa":"pixel_qa",
+  "T_RAD":"ST_TRAD"
+}

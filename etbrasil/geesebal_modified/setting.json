@@ -1,0 +1,17 @@
+{
+  "UB":"SR_B1",
+  "B":"SR_B2",
+  "GR":"SR_B3" ,
+  "R":"SR_B4" ,
+  "NIR":"SR_B5" ,
+  "SWIR_1":"SR_B6" ,
+  "SWIR_2":"SR_B7",
+  "BRT":"ST_B10",
+  "pixel_qa":"QA_PIXEL",
+  "T_RAD":"ST_TRAD"
+  }
+
+    
+
+
+  
