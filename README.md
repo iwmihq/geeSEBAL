@@ -26,6 +26,16 @@ This version has been adapted to utilize the **Landsat Collection 2 (C02) Tier 1
 
 ---
 
+## Disclaimer
+
+This repository is provided to support the reproducibility and further development of the associated research.
+
+The software is provided "as is" without warranty of any kind. IWMI and the contributing authors accept no liability for any use of, or reliance upon, the model or its outputs.
+
+Users are responsible for independently validating the suitability of the model for their intended purposes.
+
+---
+
 ## How to use Google Earth Engine?
 
 You need an account in GEE (https://earthengine.google.com/).
